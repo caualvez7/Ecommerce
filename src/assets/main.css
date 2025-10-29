@@ -1,0 +1,16 @@
+/* color palette from <https://github.com/vuejs/theme> */
+html {
+  font-size: 16px;
+  font-family: "Host Grotesk", sans-serif;
+  font-style: normal;
+  height: 100vh;
+}
+
+body {
+  height: 100vh;
+  background-color: #F9F9F9;
+}
+
+#app {
+  height: 100vh;
+}

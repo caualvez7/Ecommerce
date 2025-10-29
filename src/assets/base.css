@@ -1,0 +1,21 @@
+/* color palette from <https://github.com/vuejs/theme> */
+html {
+  font-size: 16px;
+  font-family: "Host Grotesk", sans-serif;
+  font-style: normal;
+}
+
+body {
+  background-color: #E5E5E5;
+}
+
+@media (max-width: 1080px) {
+  html {
+    font-size: 18px;
+  }
+}
+@media (max-width: 1800px) {
+  html {
+    font-size: 24px;
+  }
+}
